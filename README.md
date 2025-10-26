@@ -57,12 +57,3 @@ This project focuses on predicting the resale prices of Singapore flats using HD
 * [scikit-learn Documentation](https://scikit-learn.org/0.21/index.html)
 * [numpy Documentation](https://numpy.org/doc/)
 * [Streamlit Documentation](https://docs.streamlit.io/)
-
-
-### 🎥 Demo Vide
-
-YT Link : https://youtu.be/g5Pgxj76jzc
-
-### 📞 Contact
-LINKEDIN: www.linkedin.com/in/gokul-m-j17/             
-EMAIL : gokulgokul6847@gmail.com
